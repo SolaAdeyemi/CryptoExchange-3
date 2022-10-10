@@ -1,1 +1,1 @@
-Please note this platform was created using a MERN tutorial by BRad traversy
+Please note this platform was created using a MERN tutorial by Brad traversy
